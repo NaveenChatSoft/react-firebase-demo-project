@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Visit my portfolio. 
+          Visit my portfolio here.
         </a>
       </header>
     </div>
